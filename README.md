@@ -1,5 +1,9 @@
 # PizzaStore
 
+Экзаменационный проект по курсу JavaScript
+
+Выполнен на основе видеоконтента на канале https://www.youtube.com/c/ArchakovBlog/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
