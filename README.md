@@ -2,7 +2,7 @@
 
 Экзаменационный проект по курсу JavaScript
 
-Выполнен на основе видеоконтента на канале https://www.youtube.com/c/ArchakovBlog/
+Выполнен на основе видеоконтента канала https://www.youtube.com/c/ArchakovBlog/
 
 # Getting Started with Create React App
 
