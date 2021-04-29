@@ -1,0 +1,72 @@
+@media (max-width: 768px) {
+  .cart__item {
+    all: unset;
+    flex-direction: column;
+    justify-content: space-between;
+
+    .cart__item-img {
+      justify-content: center;
+      margin: 0;
+    }
+
+    .cart__item-img img {
+      width: 200px;
+      height: 200px;
+    }
+
+    .cart__item-info {
+      width: 100%;
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    .cart__item-count {
+      display: flex;
+      justify-content: center;
+      width: 100%;
+      margin-top: 20px;
+    }
+
+    .cart__item-price {
+      width: 100%;
+      margin-top: 20px;
+    }
+
+    .cart__item-remove {
+      width: 100%;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      justify-content: center;
+    }
+  }
+
+  .cart__bottom-details {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .card__all__pizzas {
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container__header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .cart{
+    &__top {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      padding-bottom: 80px;
+    }
+
+    &____clear {
+      margin-bottom: 75px;
+    }
+  }
+}
